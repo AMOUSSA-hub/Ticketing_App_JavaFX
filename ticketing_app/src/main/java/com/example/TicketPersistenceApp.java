@@ -172,7 +172,7 @@ public class TicketPersistenceApp extends Application {
 
         Scene scene = new Scene(root, 1100, 600);
         scene.getStylesheets().add(getClass().getResource("/com/example/ticket-persistence.css").toExternalForm());
-        primaryStage.setTitle("TP 03 - Ticket Persistence App");
+        primaryStage.setTitle("Ticketing App");
         primaryStage.setScene(scene);
         primaryStage.show();
     }

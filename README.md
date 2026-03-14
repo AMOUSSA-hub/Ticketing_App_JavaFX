@@ -2,7 +2,7 @@
 
 ## 📋 Description
 
-**Ticketing App** est une application de gestion de tickets de support développée en **JavaFX**. Elle permet de créer, consulter, modifier et supprimer des tickets de support client avec persistence des données dans une base de données **SQLite**.
+Application de gestion de tickets de support développée en **JavaFX**. Elle permet de créer, consulter, modifier et supprimer des tickets de support client avec persistence des données dans une base de données **SQLite**.
 
 ### Fonctionnalités principales :
 - ✅ **Créer** des tickets de support

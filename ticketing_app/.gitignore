@@ -1,0 +1,4 @@
+# Maven
+target/
+export/
+tickets.db

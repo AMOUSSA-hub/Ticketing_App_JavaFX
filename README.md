@@ -1,4 +1,4 @@
-# Application de Ticketing - JavaFX Application
+# Application de Ticketing
 
 ## 📋 Description
 
